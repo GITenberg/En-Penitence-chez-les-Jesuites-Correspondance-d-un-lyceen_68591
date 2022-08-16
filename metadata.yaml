@@ -1,0 +1,34 @@
+_repo: En-Penitence-chez-les-Jesuites-Correspondance-d-un-lyceen_68591
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brucker, Pierre-Paul
+    aliases:
+    - Brucker, P. P. (Pierre-Paul)
+    - Brucker, P.-P. (Pierre-Paul)
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '54849'
+    url: http://www.gutenberg.org/2009/agents/54849
+description: ''
+gutenberg_issued: '2022-07-23'
+identifiers:
+  gutenberg: '68591'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5601411x
+pgterms:marc905: 20220114021641brucker
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Pierre Téqui,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Jesuits -- Spiritual life'
+- !lcsh 'Repentance'
+- GITenberg
+title: 'En Pénitence chez les Jésuites: Correspondance d''un lycéen'
+url: http://www.gutenberg.org/ebooks/68591
